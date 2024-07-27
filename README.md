@@ -24,7 +24,9 @@ Welcome to the "Playwright Automation" repo.
 
 On your terminal, type:
 
-1. `npm i`
+1. `npm install`
+2. `npm install -D @playwright/test@latest`
+3. `npx playwright install --with-deps`
 
 IMPORTANT: to run the tests from `main`, you'll need to setup your [.env](.env) following the [.env.example](.env.example), otherwise many tests will fail.
 
