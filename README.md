@@ -14,7 +14,6 @@ Welcome to the "Playwright Automation" repo.
 > Pre requirements: 
 - [Node setup](https://nodejs.dev/en/learn/how-to-install-nodejs/)
 - [VS Code setup](https://code.visualstudio.com/learn/get-started/basics)
-- [iTerm setup](https://iterm2.com/documentation-one-page.html)
 
 ## Fork and clone the project
 
