@@ -19,5 +19,4 @@ export class HomePage {
         await expect(this.page).toHaveTitle(this.pageTitle);
     }
 }
-
 export default HomePage;
