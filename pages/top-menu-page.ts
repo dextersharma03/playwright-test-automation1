@@ -38,6 +38,5 @@ export class TopMenuPage {
     async assertJavaDescriptionVisible() {
         await expect(this.javaLabel).toBeVisible();
     }
-
 }
 export default TopMenuPage;
